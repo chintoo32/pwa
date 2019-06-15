@@ -1,0 +1,23 @@
+{
+	"name": "agora video call",
+	"short_name": "Agora VC",
+	"icons": [
+		{
+			"src": "https://i.ibb.co/pJ2MWmd/pwa-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://i.ibb.co/pJ2MWmd/pwa-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "./?utm_source=web_app_manifest",
+	"display": "standalone",
+	"orientation": "natural",
+	"background_color": "#FFFFFF",
+	"theme_color": "#3F51B5",
+	"start": "/index.html",
+	"theme_coloe": "#317EFB"
+}
